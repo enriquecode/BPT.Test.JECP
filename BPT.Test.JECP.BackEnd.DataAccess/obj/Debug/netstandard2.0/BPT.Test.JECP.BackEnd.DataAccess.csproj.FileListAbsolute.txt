@@ -1,0 +1,5 @@
+C:\Users\Equipo\source\git\PagaTodo\BPT.Test.JECP\BPT.Test.JECP.BackEnd.DataAccess\bin\Debug\netstandard2.0\BPT.Test.JECP.BackEnd.DataAccess.deps.json
+C:\Users\Equipo\source\git\PagaTodo\BPT.Test.JECP\BPT.Test.JECP.BackEnd.DataAccess\bin\Debug\netstandard2.0\BPT.Test.JECP.BackEnd.DataAccess.dll
+C:\Users\Equipo\source\git\PagaTodo\BPT.Test.JECP\BPT.Test.JECP.BackEnd.DataAccess\obj\Debug\netstandard2.0\BPT.Test.JECP.BackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\Equipo\source\git\PagaTodo\BPT.Test.JECP\BPT.Test.JECP.BackEnd.DataAccess\obj\Debug\netstandard2.0\BPT.Test.JECP.BackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Equipo\source\git\PagaTodo\BPT.Test.JECP\BPT.Test.JECP.BackEnd.DataAccess\obj\Debug\netstandard2.0\BPT.Test.JECP.BackEnd.DataAccess.AssemblyInfo.cs
